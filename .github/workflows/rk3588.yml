@@ -36,7 +36,7 @@ jobs:
             },
             {
               "name": "rk3588s-orangepi-5b",
-              "config": "orangepi-5-b-rk3588s_defconfig",
+              "config": "orangepi-5b-rk3588s_defconfig",
             },
             {
               "name": "rk3588-orangepi-5-plus",
